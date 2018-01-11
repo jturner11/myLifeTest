@@ -1,0 +1,35 @@
+.repoWidget {
+	border: 2px solid black;
+	background-color: #f0fff0;
+	width: 35%;
+	margin: 0 auto;
+}
+#mostStars {
+	margin:20px;
+	margin-left: 50px;
+}
+h1 {
+	padding-left: 40px;
+	font-family: 'Kalam', cursive;
+	margin-bottom: 0px;
+}
+h5 {
+	padding-left: 40px;
+	font-family: 'Kalam', cursive;
+	margin-top:0px; 
+}
+p {
+	font-family: 'Indie Flower', cursive;
+}
+img {
+	size:10px;
+}
+span {
+	text-align: center;
+}
+.date {
+	margin-right: 25px;
+}
+.stars {
+	margin-left: 25px;
+}
