@@ -1,2 +1,5 @@
 # myLifeTest
-use the git hub api to display the 3 most stared repo's from the javascript language over the last month.
+
+The aim of this project is to display the three most popular javascript git hub repositories for this month. It's done by using the github API and javascript.
+
+To run this code open as a HTML file in your browser!
